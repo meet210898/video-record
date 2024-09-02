@@ -1,0 +1,27 @@
+.video-preview-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.video-preview-record-buttons-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.video-recorder-play-svg-wrapper {
+  display: flex;
+  justify-content: center;
+  height: 25px;
+}
+
+.video-recorder-upload-button {
+  width: 151px;
+  height: 66px;
+  padding: 12px 15px 12px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(90.18deg, #832729 0.17%, #631517 99.86%);
+  border-radius: 40px;
+}
